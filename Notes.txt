@@ -1,0 +1,3 @@
+after creating the app add daisyui, create components directory in the root folder
+inside components folder create header/header.tsx
+inside app create (front) folder and inside it create layout.tsx and add page.ts to it
