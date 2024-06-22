@@ -12,7 +12,7 @@ const Header = () => {
           <ul className="flex">
             <li>
               <Link className="btn btn-ghost rounded-btn" href="/cart">
-                Cart
+                Carts
               </Link>
             </li>
             <li>
